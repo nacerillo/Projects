@@ -1,0 +1,30 @@
+READ-ME.txt
+
+The object of the game is to find objects and perform specific task. you will also need to know when to add notes during important occurances in the game.
+
+MOVING/NAVIGATING
+ go north
+ go south
+ go east
+ go west
+
+ if you get a message saying "you cant go this way, turn back immediatly", please go back my typeing in "go" and then the opposite direction you previously moved in.
+
+using the "look around" command is VITAL. it will let you know that is happinging in the location you are in, and give you details on what items are in it, what items can be used in it, and what areas you can go to from your current location.
+
+
+GETTING ITEMS
+type in "grab 'name of the item'" to add the item to your inventory. you dont have a limited inventory so you do not need to drop anything.
+the game DOES include a drop command however, but it is not recommended and my hinder your progess.(blame this game's lazy programmer). if you do drop an item, you will have to go back to the place it was found in to get it.
+some items will need to be examined in order to know how to use them or the purpose they serve. 
+
+USING ITEMS
+items can only be used in specific locations/one specific location, and can only be used if they are in your inventory.you will know when you have to use them. just type in "use 'name of item'"
+
+If you are stuck and can't continue, then type the word "quit" to end the program, then run the program again to start over
+
+
+
+
+
+
